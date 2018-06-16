@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "images/enemy.png",
+	"frame": {"x":207,"y":11,"w":60,"h":12},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":12},
+	"sourceSize": {"w":60,"h":12}
+},
+{
+	"filename": "images/logo.png",
+	"frame": {"x":85,"y":11,"w":120,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":29},
+	"sourceSize": {"w":120,"h":30}
+},
+{
+	"filename": "images/player-particle.png",
+	"frame": {"x":259,"y":1,"w":2,"h":2},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2,"h":2},
+	"sourceSize": {"w":2,"h":2}
+},
+{
+	"filename": "images/player.png",
+	"frame": {"x":207,"y":25,"w":60,"h":12},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":12},
+	"sourceSize": {"w":60,"h":12}
+},
+{
+	"filename": "images/power.png",
+	"frame": {"x":85,"y":42,"w":72,"h":12},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":12},
+	"sourceSize": {"w":72,"h":12}
+},
+{
+	"filename": "images/preloader-bar.png",
+	"frame": {"x":1,"y":1,"w":256,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":8},
+	"sourceSize": {"w":256,"h":8}
+},
+{
+	"filename": "images/rock.png",
+	"frame": {"x":1,"y":11,"w":40,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":40},
+	"sourceSize": {"w":40,"h":40}
+},
+{
+	"filename": "images/space.png",
+	"frame": {"x":43,"y":11,"w":40,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":40},
+	"sourceSize": {"w":40,"h":40}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "enemy.png",
+	"format": "RGBA8888",
+	"size": {"w":268,"h":55},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5fedd122209ebe61344e8849ea63245e:6176c44c6345c35f9823dee3131f3588:a99356c10d69482e9bee53d25c3d05e1$"
+}
+}
