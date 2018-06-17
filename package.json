@@ -53,5 +53,8 @@
   "dependencies": {
     "eventemitter3": "^3.1.0",
     "heroku-cli": "^7.0.9"
-  }
+  },
+  "engines": {
+    "npm": "^5.0.0"
+  },
 }
