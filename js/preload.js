@@ -7,8 +7,7 @@ class Preload extends Phaser.Scene {
         
     this.load.image('space', 'assests/images/space.png');
     this.load.image('rock', 'assests/images/rock.png');
-    debugger
-    this.load.spritesheet('playership', 'assests/images/player.png', 12, 12);
+    //this.load.spritesheet('playership', 'assests/images/player.png', 12, 12, 5);
     //this.load.spritesheet('power', 'assests/images/power.png', 12, 12, 12, 12);
   	this.load.image('playerParticle', 'assests/images/player-particle.png');
   }
