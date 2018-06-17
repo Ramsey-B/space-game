@@ -23,7 +23,8 @@
     "lintfix": "eslint --config .eslintrc.json \"src/**/*.js\" --fix",
     "sloc": "node-sloc \"./src\" --include-extensions \"js\"",
     "bundleshaders": "node scripts/bundle-shaders.js",
-    "postinstall": "node scripts/support.js"
+    "postinstall": "node scripts/support.js",
+    "start": "node ./index.html"
   },
   "keywords": [
     "2d",
@@ -50,6 +51,7 @@
     "webpack-shell-plugin": "^0.5.0"
   },
   "dependencies": {
-    "eventemitter3": "^3.1.0"
+    "eventemitter3": "^3.1.0",
+    "heroku-cli": "^7.0.9"
   }
 }
